@@ -1,1 +1,1 @@
-console.log("third - update1 - up2");
+console.log("third - update1 - up2 - from cloned");
