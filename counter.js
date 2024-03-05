@@ -1,1 +1,1 @@
-console.log("amended - from cloned");
+console.log("amended - from cloned - with ssh");
